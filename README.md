@@ -1,9 +1,11 @@
 <h1 align="center">Hi 👋, I'm Julio Alvarez</h1>
-<h3 align="center">A passionate baackend developer from Dominican Republic</h3>
+<h3 align="center">A passionate backend developer from Dominican Republic</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=julioalvarezrd&label=Profile%20views&color=0e75b6&style=flat" alt="julioalvarezrd" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=julioalvarezrd" alt="julioalvarezrd" /></a> </p>
+
+<p align="left"> <a href="https://twitter.com/julioalvarezrd" target="blank"><img src="https://img.shields.io/twitter/follow/julioalvarezrd?logo=twitter&style=for-the-badge" alt="julioalvarezrd" /></a> </p>
 
 - 🌱 I’m currently learning **Python, SQL, FastApi, Django**
 
